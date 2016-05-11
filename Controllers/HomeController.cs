@@ -8,7 +8,7 @@ namespace firstgitproject.Controllers
 {
     public class HomeController : Controller
     {
-        //test comment added
+        
         public ActionResult Index()
         {
             return View();
