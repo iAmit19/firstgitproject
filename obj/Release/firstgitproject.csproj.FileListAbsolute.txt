@@ -1,0 +1,8 @@
+D:\Learnings\Jenkins\bin\firstgitproject.dll.config
+D:\Learnings\Jenkins\bin\firstgitproject.dll
+D:\Learnings\Jenkins\bin\firstgitproject.pdb
+D:\Learnings\Jenkins\bin\Microsoft.Web.Infrastructure.dll
+D:\Learnings\Jenkins\bin\Microsoft.Web.Infrastructure.xml
+D:\Learnings\Jenkins\obj\Release\firstgitproject.csprojResolveAssemblyReference.cache
+D:\Learnings\Jenkins\obj\Release\firstgitproject.dll
+D:\Learnings\Jenkins\obj\Release\firstgitproject.pdb
